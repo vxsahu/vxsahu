@@ -25,7 +25,7 @@ Founder of [GitaGPT](https://gitagpt.in) & [Sahu4You](https://sahu4you.com) | AI
 
 ## Connect
 
-[Portfolio](https://vikassahu.com) | [Blog](https://sahu4you.com) | [GitaGPT](https://gitagpt.in) | [LinkedIn](https://in.linkedin.com/in/vikas-sahu) | [Twitter/X](https://x.com/vxsahu) | [Instagram](https://www.instagram.com/vxsahu)
+[Portfolio](https://sahu4you.com/about) | [Blog](https://sahu4you.com) | [GitaGPT](https://gitagpt.in) | [LinkedIn](https://in.linkedin.com/in/vikas-sahu) | [Twitter/X](https://x.com/vxsahu) | [Instagram](https://www.instagram.com/vxsahu)
 
 ---
 *Building at the intersection of AI, Indian culture & open source.*
